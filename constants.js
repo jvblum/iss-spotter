@@ -1,0 +1,1 @@
+// const ip = https://api.ipify.org/?format=json[0].ip
